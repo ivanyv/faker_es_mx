@@ -5,6 +5,8 @@ require 'rake/gempackagetask'
 require 'rake/rdoctask'
 require 'rake/testtask'
 
+Dir['tasks/*.rake'].each {|t| load t }
+
 spec = Gem::Specification.new do |s|
   s.name = 'faker_es_mx'
   s.version = '0.1.0'

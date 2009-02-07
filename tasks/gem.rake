@@ -1,13 +1,18 @@
+desc 'Build gemspec file.'
+task 'gemspec' do
+  files = %w(LICENSE README VERSION Rakefile setup.rb) + Dir.glob("{bin,lib,spec}/**/*")
+  version = File.read("VERSION")
+  spec = <<GEMSPEC
 Gem::Specification.new do |s|
   s.name = %q{faker_es_mx}
-  s.version = "0.1.0"
+  s.version = "<%VERSION%>"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ivan Vega"]
   s.date = %q{2009-02-07}
   s.description = %q{Generate "fake" data formatted for es_MX.}
   s.email = %q{nope}
-  s.files = ["LICENSE","README","VERSION","Rakefile","setup.rb","lib/faker_es_mx","lib/faker_es_mx/name.rb","lib/faker_es_mx/address.rb","lib/faker_es_mx.rb"]
+  s.files = <%FILES%>
   s.has_rdoc = true
   s.homepage = %q{http://github.com/ivanvr/faker_es_mx}
   s.rdoc_options = ["--inline-source", "--charset=UTF-8"]
@@ -27,4 +32,9 @@ Gem::Specification.new do |s|
   else
     s.add_dependency(%q<faker>, [">= 0.3.1"])
   end
+end
+GEMSPEC
+  files = '["' + files.join('","') + '"]'
+  spec.gsub!('<%VERSION%>', version).gsub!('<%FILES%>', files)
+  File.open('faker_es_mx.gemspec', 'w') { |f| f.puts spec }
 end

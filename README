@@ -1,3 +1,17 @@
-== faker_es_mx
+I was using the Faker gem (http://faker.rubyforge.org/) to generate test data
+for an application, but since the application is in spanish, the test data
+looked weird.
 
-You should document your project here.
+So I created this small extension to address that.
+
+Many of Faker's method have their mx_ prefixed counterpart in this extension.
+
+I hope you find this as useful as I have.
+
+To use:
+
+gem install faker
+gem install ivanvr-faker_es_mx --source=http://gems.github.com
+
+require 'faker'
+require 'faker_es_mx'

@@ -113,11 +113,6 @@ module Faker
       def mx_secondary_address
         "%s %s" % [MX_LOCALITY_PREFIXES.rand, mx_city]
       end
-
-      # Return a random phone number.
-      def mx_phone_number
-        Faker.numerify(['(###) #### ####', '(##) #### ####'].rand)
-      end
     end
   end
 end

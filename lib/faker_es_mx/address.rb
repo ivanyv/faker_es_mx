@@ -5,10 +5,10 @@ module Faker
       :BCN => { :abbr => 'BC',    :post_codes => 21..22, :name => 'Baja California' },
       :BCS => { :abbr => 'BCS',   :post_codes => 23..23, :name => 'Baja California Sur' },
       :CAM => { :abbr => 'Camp',  :post_codes => 24..24, :name => 'Campeche' },
-      :CHP => { :abbr => 'Coah',  :post_codes => 25..27, :name => 'Coahuila' },
-      :CHH => { :abbr => 'Col',   :post_codes => 28..28, :name => 'Colima' },
-      :COA => { :abbr => 'Chis',  :post_codes => 29..30, :name => 'Chiapas' },
-      :COL => { :abbr => 'Chih',  :post_codes => 31..33, :name => 'Chihuahua' },
+      :COA => { :abbr => 'Coah',  :post_codes => 25..27, :name => 'Coahuila' },
+      :COL => { :abbr => 'Col',   :post_codes => 28..28, :name => 'Colima' },
+      :CHP => { :abbr => 'Chis',  :post_codes => 29..30, :name => 'Chiapas' },
+      :CHH => { :abbr => 'Chih',  :post_codes => 31..33, :name => 'Chihuahua' },
       :DIF => { :abbr => 'DF',    :post_codes => 00..16, :name => 'Distrito Federal' },
       :DUR => { :abbr => 'Dgo',   :post_codes => 34..35, :name => 'Durango' },
       :GUA => { :abbr => 'Gto',   :post_codes => 36..38, :name => 'Guanajuato' },
@@ -37,6 +37,17 @@ module Faker
 
     @mx_states_iso = MX_STATES.keys
 
+    # Is this the right approach?
+    mx_cities_txt = File.join(File.dirname(__FILE__), '..', 'mx_cities.txt')
+    @mx_cities = {}
+    @mx_states_iso.each {|c| @mx_cities[c] = [] }
+    File.read(mx_cities_txt).split("\n").collect do |st_cty|
+      state, city = st_cty.split('|')
+      @mx_cities[state.to_sym] << city
+    end
+
+    MX_LOCALITY_PREFIXES = %w(Col. Col. Col. Col. Pueblo)
+
     class << self
       # Returns a state in Mexico.
       # Optionally ask for a specific state by its ISO code.
@@ -61,10 +72,51 @@ module Faker
       # Use the iso parameter to generate a valid
       # post code for the specified ISO state.
       #   mx_postcode(mx_state_abbr_iso)
-      def mx_postcode(iso = nil)
-        iso ||= @mx_states_iso.rand
-        code = MX_STATES[iso][:post_codes].to_a.rand
+      def mx_postcode(state = nil)
+        state ||= @mx_states_iso.rand
+        code = MX_STATES[state][:post_codes].to_a.rand
         "%05d" % (code * 1000 + rand(1000))
+      end
+
+      # Return a random city. Specify state ISO code to return a valid
+      # city for a given state.
+      def mx_city(state = nil)
+        state ||= @mx_states_iso.rand
+        @mx_cities[state].rand
+      end
+
+      # Return an array with all the cities on the specified state.
+      def mx_cities(state)
+        @mx_cities[state]
+      end
+
+      # Return a random street name.
+      def mx_street_name
+        mx_city
+      end
+
+      # Return a random street prefix.
+      def mx_street_prefix
+        %w(Av. Calle Via Priv. Ret. Cerrada Canal Eje).rand
+      end
+
+      # Return a random full street address (with optional secondary address).
+      def mx_street_address(include_secondary = false)
+        Faker.numerify([
+          '%s %s No. ####' % [mx_street_prefix, mx_street_name],
+          '%s %s No. ###' % [mx_street_prefix, mx_street_name],
+          '%s %s No. ##' % [mx_street_prefix, mx_street_name]
+        ].rand + (include_secondary ? ' ' + mx_secondary_address : ''))
+      end
+
+      # Return a random secondary address.
+      def mx_secondary_address
+        "%s %s" % [MX_LOCALITY_PREFIXES.rand, mx_city]
+      end
+
+      # Return a random phone number.
+      def mx_phone_number
+        Faker.numerify(['(###) #### ####', '(##) #### ####'].rand)
       end
     end
   end

@@ -1,0 +1,2456 @@
+AGU|Aguascalientes
+AGU|Asientos
+AGU|Calvillo
+AGU|Cosio
+AGU|Jesus Maria
+AGU|Pabellon de Arteaga
+AGU|Rincon de Romos
+AGU|San Jose de Gracia
+AGU|Tepezala
+AGU|El Llano
+AGU|San Francisco de los Romo
+BCN|Ensenada
+BCN|Mexicali
+BCN|Tecate
+BCN|Tijuana
+BCN|Playas de Rosarito
+BCS|Comondu
+BCS|Mulege
+BCS|La Paz
+BCS|Los Cabos
+BCS|Loreto
+CAM|Calkini
+CAM|Campeche
+CAM|Carmen
+CAM|Champoton
+CAM|Hecelchakan
+CAM|Hopelchen
+CAM|Palizada
+CAM|Tenabo
+CAM|Escarcega
+CAM|Calakmul
+CAM|Candelaria
+COA|Abasolo
+COA|Acuna
+COA|Allende
+COA|Arteaga
+COA|Candela
+COA|Castanos
+COA|Cuatro Cienegas
+COA|Escobedo
+COA|Francisco I. Madero
+COA|Frontera
+COA|General Cepeda
+COA|Guerrero
+COA|Hidalgo
+COA|Jimenez
+COA|Juarez
+COA|Lamadrid
+COA|Matamoros
+COA|Monclova
+COA|Morelos
+COA|Muzquiz
+COA|Nadadores
+COA|Nava
+COA|Ocampo
+COA|Parras
+COA|Piedras Negras
+COA|Progreso
+COA|Ramos Arizpe
+COA|Sabinas
+COA|Sacramento
+COA|Saltillo
+COA|San Buenaventura
+COA|San Juan de Sabinas
+COA|San Pedro
+COA|Sierra Mojada
+COA|Torreon
+COA|Viesca
+COA|Villa Union
+COA|Zaragoza
+COL|Armeria
+COL|Colima
+COL|Comala
+COL|Coquimatlan
+COL|Cuauhtemoc
+COL|Ixtlahuacan
+COL|Manzanillo
+COL|Minatitlan
+COL|Tecoman
+COL|Villa de Alvarez
+CHP|Acacoyagua
+CHP|Acala
+CHP|Acapetahua
+CHP|Altamirano
+CHP|Amatan
+CHP|Amatenango de la Frontera
+CHP|Amatenango del Valle
+CHP|Angel Albino Corzo
+CHP|Arriaga
+CHP|Bejucal de Ocampo
+CHP|Bella Vista
+CHP|Berriozabal
+CHP|Bochil
+CHP|El Bosque
+CHP|Cacahoatan
+CHP|Catazaja
+CHP|Cintalapa
+CHP|Coapilla
+CHP|Comitan de Dominguez
+CHP|La Concordia
+CHP|Copainala
+CHP|Chalchihuitan
+CHP|Chamula
+CHP|Chanal
+CHP|Chapultenango
+CHP|Chenalho
+CHP|Chiapa de Corzo
+CHP|Chiapilla
+CHP|Chicoasen
+CHP|Chicomuselo
+CHP|Chilon
+CHP|Escuintla
+CHP|Francisco Leon
+CHP|Frontera Comalapa
+CHP|Frontera Hidalgo
+CHP|La Grandeza
+CHP|Huehuetan
+CHP|Huixtan
+CHP|Huitiupan
+CHP|Huixtla
+CHP|La Independencia
+CHP|Ixhuatan
+CHP|Ixtacomitan
+CHP|Ixtapa
+CHP|Ixtapangajoya
+CHP|Jiquipilas
+CHP|Jitotol
+CHP|Juarez
+CHP|Larrainzar
+CHP|La Libertad
+CHP|Mapastepec
+CHP|Las Margaritas
+CHP|Mazapa de Madero
+CHP|Mazatan
+CHP|Metapa
+CHP|Mitontic
+CHP|Motozintla
+CHP|Nicolas Ruiz
+CHP|Ocosingo
+CHP|Ocotepec
+CHP|Ocozocoautla de Espinosa
+CHP|Ostuacan
+CHP|Osumacinta
+CHP|Oxchuc
+CHP|Palenque
+CHP|Pantelho
+CHP|Pantepec
+CHP|Pichucalco
+CHP|Pijijiapan
+CHP|El Porvenir
+CHP|Villa Comaltitlan
+CHP|Pueblo Nuevo Solistahuacan
+CHP|Rayon
+CHP|Reforma
+CHP|Las Rosas
+CHP|Sabanilla
+CHP|Salto de Agua
+CHP|San Cristobal de las Casas
+CHP|San Fernando
+CHP|Siltepec
+CHP|Simojovel
+CHP|Sitala
+CHP|Socoltenango
+CHP|Solosuchiapa
+CHP|Soyalo
+CHP|Suchiapa
+CHP|Suchiate
+CHP|Sunuapa
+CHP|Tapachula
+CHP|Tapalapa
+CHP|Tapilula
+CHP|Tecpatan
+CHP|Tenejapa
+CHP|Teopisca
+CHP|Tila
+CHP|Tonala
+CHP|Totolapa
+CHP|La Trinitaria
+CHP|Tumbala
+CHP|Tuxtla Gutierrez
+CHP|Tuxtla Chico
+CHP|Tuzantan
+CHP|Tzimol
+CHP|Union Juarez
+CHP|Venustiano Carranza
+CHP|Villa Corzo
+CHP|Villaflores
+CHP|Yajalon
+CHP|San Lucas
+CHP|Zinacantan
+CHP|San Juan Cancuc
+CHP|Aldama
+CHP|Benemerito de las Americas
+CHP|Maravilla Tenejapa
+CHP|Marques de Comillas
+CHP|Montecristo de Guerrero
+CHP|San Andres Duraznal
+CHP|Santiago el Pinar
+CHH|Ahumada
+CHH|Aldama
+CHH|Allende
+CHH|Aquiles Serdan
+CHH|Ascension
+CHH|Bachiniva
+CHH|Balleza
+CHH|Batopilas
+CHH|Bocoyna
+CHH|Buenaventura
+CHH|Camargo
+CHH|Carichi
+CHH|Casas Grandes
+CHH|Coronado
+CHH|Coyame del Sotol
+CHH|La Cruz
+CHH|Cuauhtemoc
+CHH|Cusihuiriachi
+CHH|Chihuahua
+CHH|Chinipas
+CHH|Delicias
+CHH|Dr. Belisario Dominguez
+CHH|Galeana
+CHH|Santa Isabel
+CHH|Gomez Farias
+CHH|Gran Morelos
+CHH|Guachochi
+CHH|Guadalupe
+CHH|Guadalupe y Calvo
+CHH|Guazapares
+CHH|Guerrero
+CHH|Hidalgo del Parral
+CHH|Huejotitan
+CHH|Ignacio Zaragoza
+CHH|Janos
+CHH|Jimenez
+CHH|Juarez
+CHH|Julimes
+CHH|Lopez
+CHH|Madera
+CHH|Maguarichi
+CHH|Manuel Benavides
+CHH|Matachi
+CHH|Matamoros
+CHH|Meoqui
+CHH|Morelos
+CHH|Moris
+CHH|Namiquipa
+CHH|Nonoava
+CHH|Nuevo Casas Grandes
+CHH|Ocampo
+CHH|Ojinaga
+CHH|Praxedis G. Guerrero
+CHH|Riva Palacio
+CHH|Rosales
+CHH|Rosario
+CHH|San Francisco de Borja
+CHH|San Francisco de Conchos
+CHH|San Francisco del Oro
+CHH|Santa Barbara
+CHH|Satevo
+CHH|Saucillo
+CHH|Temosachic
+CHH|El Tule
+CHH|Urique
+CHH|Uruachi
+CHH|Valle de Zaragoza
+DIF|Azcapotzalco
+DIF|Coyoacan
+DIF|Cuajimalpa de Morelos
+DIF|Gustavo A. Madero
+DIF|Iztacalco
+DIF|Iztapalapa
+DIF|La Magdalena Contreras
+DIF|Milpa Alta
+DIF|Alvaro Obregon
+DIF|Tlahuac
+DIF|Tlalpan
+DIF|Xochimilco
+DIF|Benito Juarez
+DIF|Cuauhtemoc
+DIF|Miguel Hidalgo
+DIF|Venustiano Carranza
+DUR|Canatlan
+DUR|Canelas
+DUR|Coneto de Comonfort
+DUR|Cuencame
+DUR|Durango
+DUR|General Simon Bolivar
+DUR|Gomez Palacio
+DUR|Guadalupe Victoria
+DUR|Guanacevi
+DUR|Hidalgo
+DUR|Inde
+DUR|Lerdo
+DUR|Mapimi
+DUR|Mezquital
+DUR|Nazas
+DUR|Nombre de Dios
+DUR|Ocampo
+DUR|El Oro
+DUR|Otaez
+DUR|Panuco de Coronado
+DUR|Penon Blanco
+DUR|Poanas
+DUR|Pueblo Nuevo
+DUR|Rodeo
+DUR|San Bernardo
+DUR|San Dimas
+DUR|San Juan de Guadalupe
+DUR|San Juan del Rio
+DUR|San Luis del Cordero
+DUR|San Pedro del Gallo
+DUR|Santa Clara
+DUR|Santiago Papasquiaro
+DUR|Suchil
+DUR|Tamazula
+DUR|Tepehuanes
+DUR|Tlahualilo
+DUR|Topia
+DUR|Vicente Guerrero
+DUR|Nuevo Ideal
+GUA|Abasolo
+GUA|Acambaro
+GUA|San Miguel de Allende
+GUA|Apaseo el Alto
+GUA|Apaseo el Grande
+GUA|Atarjea
+GUA|Celaya
+GUA|Manuel Doblado
+GUA|Comonfort
+GUA|Coroneo
+GUA|Cortazar
+GUA|Cueramaro
+GUA|Doctor Mora
+GUA|Dolores Hidalgo Cuna de la Independencia Nacional
+GUA|Guanajuato
+GUA|Huanimaro
+GUA|Irapuato
+GUA|Jaral del Progreso
+GUA|Jerecuaro
+GUA|Leon
+GUA|Moroleon
+GUA|Ocampo
+GUA|Penjamo
+GUA|Pueblo Nuevo
+GUA|Purisima del Rincon
+GUA|Romita
+GUA|Salamanca
+GUA|Salvatierra
+GUA|San Diego de la Union
+GUA|San Felipe
+GUA|San Francisco del Rincon
+GUA|San Jose Iturbide
+GUA|San Luis de la Paz
+GUA|Santa Catarina
+GUA|Santa Cruz de Juventino Rosas
+GUA|Santiago Maravatio
+GUA|Silao
+GUA|Tarandacuao
+GUA|Tarimoro
+GUA|Tierra Blanca
+GUA|Uriangato
+GUA|Valle de Santiago
+GUA|Victoria
+GUA|Villagran
+GUA|Xichu
+GUA|Yuriria
+GRO|Acapulco de Juarez
+GRO|Ahuacuotzingo
+GRO|Ajuchitlan del Progreso
+GRO|Alcozauca de Guerrero
+GRO|Alpoyeca
+GRO|Apaxtla
+GRO|Arcelia
+GRO|Atenango del Rio
+GRO|Atlamajalcingo del Monte
+GRO|Atlixtac
+GRO|Atoyac de Alvarez
+GRO|Ayutla de los Libres
+GRO|Azoyu
+GRO|Benito Juarez
+GRO|Buenavista de Cuellar
+GRO|Coahuayutla de Jose Maria Izazaga
+GRO|Cocula
+GRO|Copala
+GRO|Copalillo
+GRO|Copanatoyac
+GRO|Coyuca de Benitez
+GRO|Coyuca de Catalan
+GRO|Cuajinicuilapa
+GRO|Cualac
+GRO|Cuautepec
+GRO|Cuetzala del Progreso
+GRO|Cutzamala de Pinzon
+GRO|Chilapa de Alvarez
+GRO|Chilpancingo de los Bravo
+GRO|Florencio Villarreal
+GRO|General Canuto A. Neri
+GRO|General Heliodoro Castillo
+GRO|Huamuxtitlan
+GRO|Huitzuco de los Figueroa
+GRO|Iguala de la Independencia
+GRO|Igualapa
+GRO|Ixcateopan de Cuauhtemoc
+GRO|Zihuatanejo de Azueta
+GRO|Juan R. Escudero
+GRO|Leonardo Bravo
+GRO|Malinaltepec
+GRO|Martir de Cuilapan
+GRO|Metlatonoc
+GRO|Mochitlan
+GRO|Olinala
+GRO|Ometepec
+GRO|Pedro Ascencio Alquisiras
+GRO|Petatlan
+GRO|Pilcaya
+GRO|Pungarabato
+GRO|Quechultenango
+GRO|San Luis Acatlan
+GRO|San Marcos
+GRO|San Miguel Totolapan
+GRO|Taxco de Alarcon
+GRO|Tecoanapa
+GRO|Tecpan de Galeana
+GRO|Teloloapan
+GRO|Tepecoacuilco de Trujano
+GRO|Tetipac
+GRO|Tixtla de Guerrero
+GRO|Tlacoachistlahuaca
+GRO|Tlacoapa
+GRO|Tlalchapa
+GRO|Tlalixtaquilla de Maldonado
+GRO|Tlapa de Comonfort
+GRO|Tlapehuala
+GRO|La Union de Isidoro Montes de Oca
+GRO|Xalpatlahuac
+GRO|Xochihuehuetlan
+GRO|Xochistlahuaca
+GRO|Zapotitlan Tablas
+GRO|Zirandaro
+GRO|Zitlala
+GRO|Eduardo Neri
+GRO|Acatepec
+GRO|Marquelia
+GRO|Cochoapa el Grande
+GRO|Jose Joaquin de Herrera
+GRO|Juchitan
+GRO|Iliatenco
+HID|Acatlan
+HID|Acaxochitlan
+HID|Actopan
+HID|Agua Blanca de Iturbide
+HID|Ajacuba
+HID|Alfajayucan
+HID|Almoloya
+HID|Apan
+HID|El Arenal
+HID|Atitalaquia
+HID|Atlapexco
+HID|Atotonilco el Grande
+HID|Atotonilco de Tula
+HID|Calnali
+HID|Cardonal
+HID|Cuautepec de Hinojosa
+HID|Chapantongo
+HID|Chapulhuacan
+HID|Chilcuautla
+HID|Eloxochitlan
+HID|Emiliano Zapata
+HID|Epazoyucan
+HID|Francisco I. Madero
+HID|Huasca de Ocampo
+HID|Huautla
+HID|Huazalingo
+HID|Huehuetla
+HID|Huejutla de Reyes
+HID|Huichapan
+HID|Ixmiquilpan
+HID|Jacala de Ledezma
+HID|Jaltocan
+HID|Juarez Hidalgo
+HID|Lolotla
+HID|Metepec
+HID|San Agustin Metzquititlan
+HID|Metztitlan
+HID|Mineral del Chico
+HID|Mineral del Monte
+HID|La Mision
+HID|Mixquiahuala de Juarez
+HID|Molango de Escamilla
+HID|Nicolas Flores
+HID|Nopala de Villagran
+HID|Omitlan de Juarez
+HID|San Felipe Orizatlan
+HID|Pacula
+HID|Pachuca de Soto
+HID|Pisaflores
+HID|Progreso de Obregon
+HID|Mineral de la Reforma
+HID|San Agustin Tlaxiaca
+HID|San Bartolo Tutotepec
+HID|San Salvador
+HID|Santiago de Anaya
+HID|Santiago Tulantepec de Lugo Guerrero
+HID|Singuilucan
+HID|Tasquillo
+HID|Tecozautla
+HID|Tenango de Doria
+HID|Tepeapulco
+HID|Tepehuacan de Guerrero
+HID|Tepeji del Rio de Ocampo
+HID|Tepetitlan
+HID|Tetepango
+HID|Villa de Tezontepec
+HID|Tezontepec de Aldama
+HID|Tianguistengo
+HID|Tizayuca
+HID|Tlahuelilpan
+HID|Tlahuiltepa
+HID|Tlanalapa
+HID|Tlanchinol
+HID|Tlaxcoapan
+HID|Tolcayuca
+HID|Tula de Allende
+HID|Tulancingo de Bravo
+HID|Xochiatipan
+HID|Xochicoatlan
+HID|Yahualica
+HID|Zacualtipan de Angeles
+HID|Zapotlan de Juarez
+HID|Zempoala
+HID|Zimapan
+JAL|Acatic
+JAL|Acatlan de Juarez
+JAL|Ahualulco de Mercado
+JAL|Amacueca
+JAL|Amatitan
+JAL|Ameca
+JAL|San Juanito de Escobedo
+JAL|Arandas
+JAL|El Arenal
+JAL|Atemajac de Brizuela
+JAL|Atengo
+JAL|Atenguillo
+JAL|Atotonilco el Alto
+JAL|Atoyac
+JAL|Autlan de Navarro
+JAL|Ayotlan
+JAL|Ayutla
+JAL|La Barca
+JAL|Bolanos
+JAL|Cabo Corrientes
+JAL|Casimiro Castillo
+JAL|Cihuatlan
+JAL|Zapotlan el Grande
+JAL|Cocula
+JAL|Colotlan
+JAL|Concepcion de Buenos Aires
+JAL|Cuautitlan de Garcia Barragan
+JAL|Cuautla
+JAL|Cuquio
+JAL|Chapala
+JAL|Chimaltitan
+JAL|Chiquilistlan
+JAL|Degollado
+JAL|Ejutla
+JAL|Encarnacion de Diaz
+JAL|Etzatlan
+JAL|El Grullo
+JAL|Guachinango
+JAL|Guadalajara
+JAL|Hostotipaquillo
+JAL|Huejucar
+JAL|Huejuquilla el Alto
+JAL|La Huerta
+JAL|Ixtlahuacan de los Membrillos
+JAL|Ixtlahuacan del Rio
+JAL|Jalostotitlan
+JAL|Jamay
+JAL|Jesus Maria
+JAL|Jilotlan de los Dolores
+JAL|Jocotepec
+JAL|Juanacatlan
+JAL|Juchitlan
+JAL|Lagos de Moreno
+JAL|El Limon
+JAL|Magdalena
+JAL|Santa Maria del Oro
+JAL|La Manzanilla de la Paz
+JAL|Mascota
+JAL|Mazamitla
+JAL|Mexticacan
+JAL|Mezquitic
+JAL|Mixtlan
+JAL|Ocotlan
+JAL|Ojuelos de Jalisco
+JAL|Pihuamo
+JAL|Poncitlan
+JAL|Puerto Vallarta
+JAL|Villa Purificacion
+JAL|Quitupan
+JAL|El Salto
+JAL|San Cristobal de la Barranca
+JAL|San Diego de Alejandria
+JAL|San Juan de los Lagos
+JAL|San Julian
+JAL|San Marcos
+JAL|San Martin de Bolanos
+JAL|San Martin Hidalgo
+JAL|San Miguel el Alto
+JAL|Gomez Farias
+JAL|San Sebastian del Oeste
+JAL|Santa Maria de los Angeles
+JAL|Sayula
+JAL|Tala
+JAL|Talpa de Allende
+JAL|Tamazula de Gordiano
+JAL|Tapalpa
+JAL|Tecalitlan
+JAL|Tecolotlan
+JAL|Techaluta de Montenegro
+JAL|Tenamaxtlan
+JAL|Teocaltiche
+JAL|Teocuitatlan de Corona
+JAL|Tepatitlan de Morelos
+JAL|Tequila
+JAL|Teuchitlan
+JAL|Tizapan el Alto
+JAL|Tlajomulco de Zuniga
+JAL|Tlaquepaque
+JAL|Toliman
+JAL|Tomatlan
+JAL|Tonala
+JAL|Tonaya
+JAL|Tonila
+JAL|Totatiche
+JAL|Tototlan
+JAL|Tuxcacuesco
+JAL|Tuxcueca
+JAL|Tuxpan
+JAL|Union de San Antonio
+JAL|Union de Tula
+JAL|Valle de Guadalupe
+JAL|Valle de Juarez
+JAL|San Gabriel
+JAL|Villa Corona
+JAL|Villa Guerrero
+JAL|Villa Hidalgo
+JAL|Canadas de Obregon
+JAL|Yahualica de Gonzalez Gallo
+JAL|Zacoalco de Torres
+JAL|Zapopan
+JAL|Zapotiltic
+JAL|Zapotitlan de Vadillo
+JAL|Zapotlan del Rey
+JAL|Zapotlanejo
+JAL|San Ignacio Cerro Gordo
+MEX|Acambay
+MEX|Acolman
+MEX|Aculco
+MEX|Almoloya de Alquisiras
+MEX|Almoloya de Juarez
+MEX|Almoloya del Rio
+MEX|Amanalco
+MEX|Amatepec
+MEX|Amecameca
+MEX|Apaxco
+MEX|Atenco
+MEX|Atizapan
+MEX|Atizapan de Zaragoza
+MEX|Atlacomulco
+MEX|Atlautla
+MEX|Axapusco
+MEX|Ayapango
+MEX|Calimaya
+MEX|Capulhuac
+MEX|Coacalco de Berriozabal
+MEX|Coatepec Harinas
+MEX|Cocotitlan
+MEX|Coyotepec
+MEX|Cuautitlan
+MEX|Chalco
+MEX|Chapa de Mota
+MEX|Chapultepec
+MEX|Chiautla
+MEX|Chicoloapan
+MEX|Chiconcuac
+MEX|Chimalhuacan
+MEX|Donato Guerra
+MEX|Ecatepec de Morelos
+MEX|Ecatzingo
+MEX|Huehuetoca
+MEX|Hueypoxtla
+MEX|Huixquilucan
+MEX|Isidro Fabela
+MEX|Ixtapaluca
+MEX|Ixtapan de la Sal
+MEX|Ixtapan del Oro
+MEX|Ixtlahuaca
+MEX|Xalatlaco
+MEX|Jaltenco
+MEX|Jilotepec
+MEX|Jilotzingo
+MEX|Jiquipilco
+MEX|Jocotitlan
+MEX|Joquicingo
+MEX|Juchitepec
+MEX|Lerma
+MEX|Malinalco
+MEX|Melchor Ocampo
+MEX|Metepec
+MEX|Mexicaltzingo
+MEX|Morelos
+MEX|Naucalpan de Juarez
+MEX|Nezahualcoyotl
+MEX|Nextlalpan
+MEX|Nicolas Romero
+MEX|Nopaltepec
+MEX|Ocoyoacac
+MEX|Ocuilan
+MEX|El Oro
+MEX|Otumba
+MEX|Otzoloapan
+MEX|Otzolotepec
+MEX|Ozumba
+MEX|Papalotla
+MEX|La Paz
+MEX|Polotitlan
+MEX|Rayon
+MEX|San Antonio la Isla
+MEX|San Felipe del Progreso
+MEX|San Martin de las Piramides
+MEX|San Mateo Atenco
+MEX|San Simon de Guerrero
+MEX|Santo Tomas
+MEX|Soyaniquilpan de Juarez
+MEX|Sultepec
+MEX|Tecamac
+MEX|Tejupilco
+MEX|Temamatla
+MEX|Temascalapa
+MEX|Temascalcingo
+MEX|Temascaltepec
+MEX|Temoaya
+MEX|Tenancingo
+MEX|Tenango del Aire
+MEX|Tenango del Valle
+MEX|Teoloyucan
+MEX|Teotihuacan
+MEX|Tepetlaoxtoc
+MEX|Tepetlixpa
+MEX|Tepotzotlan
+MEX|Tequixquiac
+MEX|Texcaltitlan
+MEX|Texcalyacac
+MEX|Texcoco
+MEX|Tezoyuca
+MEX|Tianguistenco
+MEX|Timilpan
+MEX|Tlalmanalco
+MEX|Tlalnepantla de Baz
+MEX|Tlatlaya
+MEX|Toluca
+MEX|Tonatico
+MEX|Tultepec
+MEX|Tultitlan
+MEX|Valle de Bravo
+MEX|Villa de Allende
+MEX|Villa del Carbon
+MEX|Villa Guerrero
+MEX|Villa Victoria
+MEX|Xonacatlan
+MEX|Zacazonapan
+MEX|Zacualpan
+MEX|Zinacantepec
+MEX|Zumpahuacan
+MEX|Zumpango
+MEX|Cuautitlan Izcalli
+MEX|Valle de Chalco Solidaridad
+MEX|Luvianos
+MEX|San Jose del Rincon
+MEX|Tonanitla
+MIC|Acuitzio
+MIC|Aguililla
+MIC|Alvaro Obregon
+MIC|Angamacutiro
+MIC|Angangueo
+MIC|Apatzingan
+MIC|Aporo
+MIC|Aquila
+MIC|Ario
+MIC|Arteaga
+MIC|Brisenas
+MIC|Buenavista
+MIC|Caracuaro
+MIC|Coahuayana
+MIC|Coalcoman de Vazquez Pallares
+MIC|Coeneo
+MIC|Contepec
+MIC|Copandaro
+MIC|Cotija
+MIC|Cuitzeo
+MIC|Charapan
+MIC|Charo
+MIC|Chavinda
+MIC|Cheran
+MIC|Chilchota
+MIC|Chinicuila
+MIC|Chucandiro
+MIC|Churintzio
+MIC|Churumuco
+MIC|Ecuandureo
+MIC|Epitacio Huerta
+MIC|Erongaricuaro
+MIC|Gabriel Zamora
+MIC|Hidalgo
+MIC|La Huacana
+MIC|Huandacareo
+MIC|Huaniqueo
+MIC|Huetamo
+MIC|Huiramba
+MIC|Indaparapeo
+MIC|Irimbo
+MIC|Ixtlan
+MIC|Jacona
+MIC|Jimenez
+MIC|Jiquilpan
+MIC|Juarez
+MIC|Jungapeo
+MIC|Lagunillas
+MIC|Madero
+MIC|Maravatio
+MIC|Marcos Castellanos
+MIC|Lazaro Cardenas
+MIC|Morelia
+MIC|Morelos
+MIC|Mugica
+MIC|Nahuatzen
+MIC|Nocupetaro
+MIC|Nuevo Parangaricutiro
+MIC|Nuevo Urecho
+MIC|Numaran
+MIC|Ocampo
+MIC|Pajacuaran
+MIC|Panindicuaro
+MIC|Paracuaro
+MIC|Paracho
+MIC|Patzcuaro
+MIC|Penjamillo
+MIC|Periban
+MIC|La Piedad
+MIC|Purepero
+MIC|Puruandiro
+MIC|Querendaro
+MIC|Quiroga
+MIC|Cojumatlan de Regules
+MIC|Los Reyes
+MIC|Sahuayo
+MIC|San Lucas
+MIC|Santa Ana Maya
+MIC|Salvador Escalante
+MIC|Senguio
+MIC|Susupuato
+MIC|Tacambaro
+MIC|Tancitaro
+MIC|Tangamandapio
+MIC|Tangancicuaro
+MIC|Tanhuato
+MIC|Taretan
+MIC|Tarimbaro
+MIC|Tepalcatepec
+MIC|Tingambato
+MIC|Tingüindin
+MIC|Tiquicheo de Nicolas Romero
+MIC|Tlalpujahua
+MIC|Tlazazalca
+MIC|Tocumbo
+MIC|Tumbiscatio
+MIC|Turicato
+MIC|Tuxpan
+MIC|Tuzantla
+MIC|Tzintzuntzan
+MIC|Tzitzio
+MIC|Uruapan
+MIC|Venustiano Carranza
+MIC|Villamar
+MIC|Vista Hermosa
+MIC|Yurecuaro
+MIC|Zacapu
+MIC|Zamora
+MIC|Zinaparo
+MIC|Zinapecuaro
+MIC|Ziracuaretiro
+MIC|Zitacuaro
+MIC|Jose Sixto Verduzco
+MOR|Amacuzac
+MOR|Atlatlahucan
+MOR|Axochiapan
+MOR|Ayala
+MOR|Coatlan del Rio
+MOR|Cuautla
+MOR|Cuernavaca
+MOR|Emiliano Zapata
+MOR|Huitzilac
+MOR|Jantetelco
+MOR|Jiutepec
+MOR|Jojutla
+MOR|Jonacatepec
+MOR|Mazatepec
+MOR|Miacatlan
+MOR|Ocuituco
+MOR|Puente de Ixtla
+MOR|Temixco
+MOR|Tepalcingo
+MOR|Tepoztlan
+MOR|Tetecala
+MOR|Tetela del Volcan
+MOR|Tlalnepantla
+MOR|Tlaltizapan
+MOR|Tlaquiltenango
+MOR|Tlayacapan
+MOR|Totolapan
+MOR|Xochitepec
+MOR|Yautepec
+MOR|Yecapixtla
+MOR|Zacatepec
+MOR|Zacualpan
+MOR|Temoac
+NAY|Acaponeta
+NAY|Ahuacatlan
+NAY|Amatlan de Canas
+NAY|Compostela
+NAY|Huajicori
+NAY|Ixtlan del Rio
+NAY|Jala
+NAY|Xalisco
+NAY|Del Nayar
+NAY|Rosamorada
+NAY|Ruiz
+NAY|San Blas
+NAY|San Pedro Lagunillas
+NAY|Santa Maria del Oro
+NAY|Santiago Ixcuintla
+NAY|Tecuala
+NAY|Tepic
+NAY|Tuxpan
+NAY|La Yesca
+NAY|Bahia de Banderas
+NLE|Abasolo
+NLE|Agualeguas
+NLE|Los Aldamas
+NLE|Allende
+NLE|Anahuac
+NLE|Apodaca
+NLE|Aramberri
+NLE|Bustamante
+NLE|Cadereyta Jimenez
+NLE|Carmen
+NLE|Cerralvo
+NLE|Cienega de Flores
+NLE|China
+NLE|Dr. Arroyo
+NLE|Dr. Coss
+NLE|Dr. Gonzalez
+NLE|Galeana
+NLE|Garcia
+NLE|San Pedro Garza Garcia
+NLE|Gral. Bravo
+NLE|Gral. Escobedo
+NLE|Gral. Teran
+NLE|Gral. Trevino
+NLE|Gral. Zaragoza
+NLE|Gral. Zuazua
+NLE|Guadalupe
+NLE|Los Herreras
+NLE|Higueras
+NLE|Hualahuises
+NLE|Iturbide
+NLE|Juarez
+NLE|Lampazos de Naranjo
+NLE|Linares
+NLE|Marin
+NLE|Melchor Ocampo
+NLE|Mier y Noriega
+NLE|Mina
+NLE|Montemorelos
+NLE|Monterrey
+NLE|Paras
+NLE|Pesqueria
+NLE|Los Ramones
+NLE|Rayones
+NLE|Sabinas Hidalgo
+NLE|Salinas Victoria
+NLE|San Nicolas de los Garza
+NLE|Hidalgo
+NLE|Santa Catarina
+NLE|Santiago
+NLE|Vallecillo
+NLE|Villaldama
+OAX|Abejones
+OAX|Acatlan de Perez Figueroa
+OAX|Asuncion Cacalotepec
+OAX|Asuncion Cuyotepeji
+OAX|Asuncion Ixtaltepec
+OAX|Asuncion Nochixtlan
+OAX|Asuncion Ocotlan
+OAX|Asuncion Tlacolulita
+OAX|Ayotzintepec
+OAX|El Barrio de la Soledad
+OAX|Calihuala
+OAX|Candelaria Loxicha
+OAX|Cienega de Zimatlan
+OAX|Ciudad Ixtepec
+OAX|Coatecas Altas
+OAX|Coicoyan de las Flores
+OAX|La Compania
+OAX|Concepcion Buenavista
+OAX|Concepcion Papalo
+OAX|Constancia del Rosario
+OAX|Cosolapa
+OAX|Cosoltepec
+OAX|Cuilapam de Guerrero
+OAX|Cuyamecalco Villa de Zaragoza
+OAX|Chahuites
+OAX|Chalcatongo de Hidalgo
+OAX|Chiquihuitlan de Benito Juarez
+OAX|Heroica Ciudad de Ejutla de Crespo
+OAX|Eloxochitlan de Flores Magon
+OAX|El Espinal
+OAX|Tamazulapam del Espiritu Santo
+OAX|Fresnillo de Trujano
+OAX|Guadalupe Etla
+OAX|Guadalupe de Ramirez
+OAX|Guelatao de Juarez
+OAX|Guevea de Humboldt
+OAX|Mesones Hidalgo
+OAX|Villa Hidalgo
+OAX|Heroica Ciudad de Huajuapan de Leon
+OAX|Huautepec
+OAX|Huautla de Jimenez
+OAX|Ixtlan de Juarez
+OAX|Heroica Ciudad de Juchitan de Zaragoza
+OAX|Loma Bonita
+OAX|Magdalena Apasco
+OAX|Magdalena Jaltepec
+OAX|Santa Magdalena Jicotlan
+OAX|Magdalena Mixtepec
+OAX|Magdalena Ocotlan
+OAX|Magdalena Penasco
+OAX|Magdalena Teitipac
+OAX|Magdalena Tequisistlan
+OAX|Magdalena Tlacotepec
+OAX|Magdalena Zahuatlan
+OAX|Mariscala de Juarez
+OAX|Martires de Tacubaya
+OAX|Matias Romero Avendano
+OAX|Mazatlan Villa de Flores
+OAX|Miahuatlan de Porfirio Diaz
+OAX|Mixistlan de la Reforma
+OAX|Monjas
+OAX|Natividad
+OAX|Nazareno Etla
+OAX|Nejapa de Madero
+OAX|Ixpantepec Nieves
+OAX|Santiago Niltepec
+OAX|Oaxaca de Juarez
+OAX|Ocotlan de Morelos
+OAX|La Pe
+OAX|Pinotepa de Don Luis
+OAX|Pluma Hidalgo
+OAX|San Jose del Progreso
+OAX|Putla Villa de Guerrero
+OAX|Santa Catarina Quioquitani
+OAX|Reforma de Pineda
+OAX|La Reforma
+OAX|Reyes Etla
+OAX|Rojas de Cuauhtemoc
+OAX|Salina Cruz
+OAX|San Agustin Amatengo
+OAX|San Agustin Atenango
+OAX|San Agustin Chayuco
+OAX|San Agustin de las Juntas
+OAX|San Agustin Etla
+OAX|San Agustin Loxicha
+OAX|San Agustin Tlacotepec
+OAX|San Agustin Yatareni
+OAX|San Andres Cabecera Nueva
+OAX|San Andres Dinicuiti
+OAX|San Andres Huaxpaltepec
+OAX|San Andres Huayapam
+OAX|San Andres Ixtlahuaca
+OAX|San Andres Lagunas
+OAX|San Andres Nuxino
+OAX|San Andres Paxtlan
+OAX|San Andres Sinaxtla
+OAX|San Andres Solaga
+OAX|San Andres Teotilalpam
+OAX|San Andres Tepetlapa
+OAX|San Andres Yaa
+OAX|San Andres Zabache
+OAX|San Andres Zautla
+OAX|San Antonino Castillo Velasco
+OAX|San Antonino el Alto
+OAX|San Antonino Monte Verde
+OAX|San Antonio Acutla
+OAX|San Antonio de la Cal
+OAX|San Antonio Huitepec
+OAX|San Antonio Nanahuatipam
+OAX|San Antonio Sinicahua
+OAX|San Antonio Tepetlapa
+OAX|San Baltazar Chichicapam
+OAX|San Baltazar Loxicha
+OAX|San Baltazar Yatzachi el Bajo
+OAX|San Bartolo Coyotepec
+OAX|San Bartolome Ayautla
+OAX|San Bartolome Loxicha
+OAX|San Bartolome Quialana
+OAX|San Bartolome Yucuane
+OAX|San Bartolome Zoogocho
+OAX|San Bartolo Soyaltepec
+OAX|San Bartolo Yautepec
+OAX|San Bernardo Mixtepec
+OAX|San Blas Atempa
+OAX|San Carlos Yautepec
+OAX|San Cristobal Amatlan
+OAX|San Cristobal Amoltepec
+OAX|San Cristobal Lachirioag
+OAX|San Cristobal Suchixtlahuaca
+OAX|San Dionisio del Mar
+OAX|San Dionisio Ocotepec
+OAX|San Dionisio Ocotlan
+OAX|San Esteban Atatlahuca
+OAX|San Felipe Jalapa de Diaz
+OAX|San Felipe Tejalapam
+OAX|San Felipe Usila
+OAX|San Francisco Cahuacua
+OAX|San Francisco Cajonos
+OAX|San Francisco Chapulapa
+OAX|San Francisco Chindua
+OAX|San Francisco del Mar
+OAX|San Francisco Huehuetlan
+OAX|San Francisco Ixhuatan
+OAX|San Francisco Jaltepetongo
+OAX|San Francisco Lachigolo
+OAX|San Francisco Logueche
+OAX|San Francisco Nuxano
+OAX|San Francisco Ozolotepec
+OAX|San Francisco Sola
+OAX|San Francisco Telixtlahuaca
+OAX|San Francisco Teopan
+OAX|San Francisco Tlapancingo
+OAX|San Gabriel Mixtepec
+OAX|San Ildefonso Amatlan
+OAX|San Ildefonso Sola
+OAX|San Ildefonso Villa Alta
+OAX|San Jacinto Amilpas
+OAX|San Jacinto Tlacotepec
+OAX|San Jeronimo Coatlan
+OAX|San Jeronimo Silacayoapilla
+OAX|San Jeronimo Sosola
+OAX|San Jeronimo Taviche
+OAX|San Jeronimo Tecoatl
+OAX|San Jorge Nuchita
+OAX|San Jose Ayuquila
+OAX|San Jose Chiltepec
+OAX|San Jose del Penasco
+OAX|San Jose Estancia Grande
+OAX|San Jose Independencia
+OAX|San Jose Lachiguiri
+OAX|San Jose Tenango
+OAX|San Juan Achiutla
+OAX|San Juan Atepec
+OAX|Animas Trujano
+OAX|San Juan Bautista Atatlahuca
+OAX|San Juan Bautista Coixtlahuaca
+OAX|San Juan Bautista Cuicatlan
+OAX|San Juan Bautista Guelache
+OAX|San Juan Bautista Jayacatlan
+OAX|San Juan Bautista Lo de Soto
+OAX|San Juan Bautista Suchitepec
+OAX|San Juan Bautista Tlacoatzintepec
+OAX|San Juan Bautista Tlachichilco
+OAX|San Juan Bautista Tuxtepec
+OAX|San Juan Cacahuatepec
+OAX|San Juan Cieneguilla
+OAX|San Juan Coatzospam
+OAX|San Juan Colorado
+OAX|San Juan Comaltepec
+OAX|San Juan Cotzocon
+OAX|San Juan Chicomezuchil
+OAX|San Juan Chilateca
+OAX|San Juan del Estado
+OAX|San Juan del Rio
+OAX|San Juan Diuxi
+OAX|San Juan Evangelista Analco
+OAX|San Juan Guelavia
+OAX|San Juan Guichicovi
+OAX|San Juan Ihualtepec
+OAX|San Juan Juquila Mixes
+OAX|San Juan Juquila Vijanos
+OAX|San Juan Lachao
+OAX|San Juan Lachigalla
+OAX|San Juan Lajarcia
+OAX|San Juan Lalana
+OAX|San Juan de los Cues
+OAX|San Juan Mazatlan
+OAX|San Juan Mixtepec -Dto. 08 -
+OAX|San Juan Mixtepec -Dto. 26 -
+OAX|San Juan Numi
+OAX|San Juan Ozolotepec
+OAX|San Juan Petlapa
+OAX|San Juan Quiahije
+OAX|San Juan Quiotepec
+OAX|San Juan Sayultepec
+OAX|San Juan Tabaa
+OAX|San Juan Tamazola
+OAX|San Juan Teita
+OAX|San Juan Teitipac
+OAX|San Juan Tepeuxila
+OAX|San Juan Teposcolula
+OAX|San Juan Yaee
+OAX|San Juan Yatzona
+OAX|San Juan Yucuita
+OAX|San Lorenzo
+OAX|San Lorenzo Albarradas
+OAX|San Lorenzo Cacaotepec
+OAX|San Lorenzo Cuaunecuiltitla
+OAX|San Lorenzo Texmelucan
+OAX|San Lorenzo Victoria
+OAX|San Lucas Camotlan
+OAX|San Lucas Ojitlan
+OAX|San Lucas Quiavini
+OAX|San Lucas Zoquiapam
+OAX|San Luis Amatlan
+OAX|San Marcial Ozolotepec
+OAX|San Marcos Arteaga
+OAX|San Martin de los Cansecos
+OAX|San Martin Huamelulpam
+OAX|San Martin Itunyoso
+OAX|San Martin Lachila
+OAX|San Martin Peras
+OAX|San Martin Tilcajete
+OAX|San Martin Toxpalan
+OAX|San Martin Zacatepec
+OAX|San Mateo Cajonos
+OAX|Capulalpam de Mendez
+OAX|San Mateo del Mar
+OAX|San Mateo Yoloxochitlan
+OAX|San Mateo Etlatongo
+OAX|San Mateo Nejapam
+OAX|San Mateo Penasco
+OAX|San Mateo Pinas
+OAX|San Mateo Rio Hondo
+OAX|San Mateo Sindihui
+OAX|San Mateo Tlapiltepec
+OAX|San Melchor Betaza
+OAX|San Miguel Achiutla
+OAX|San Miguel Ahuehuetitlan
+OAX|San Miguel Aloapam
+OAX|San Miguel Amatitlan
+OAX|San Miguel Amatlan
+OAX|San Miguel Coatlan
+OAX|San Miguel Chicahua
+OAX|San Miguel Chimalapa
+OAX|San Miguel del Puerto
+OAX|San Miguel del Rio
+OAX|San Miguel Ejutla
+OAX|San Miguel el Grande
+OAX|San Miguel Huautla
+OAX|San Miguel Mixtepec
+OAX|San Miguel Panixtlahuaca
+OAX|San Miguel Peras
+OAX|San Miguel Piedras
+OAX|San Miguel Quetzaltepec
+OAX|San Miguel Santa Flor
+OAX|Villa Sola de Vega
+OAX|San Miguel Soyaltepec
+OAX|San Miguel Suchixtepec
+OAX|Villa Talea de Castro
+OAX|San Miguel Tecomatlan
+OAX|San Miguel Tenango
+OAX|San Miguel Tequixtepec
+OAX|San Miguel Tilquiapam
+OAX|San Miguel Tlacamama
+OAX|San Miguel Tlacotepec
+OAX|San Miguel Tulancingo
+OAX|San Miguel Yotao
+OAX|San Nicolas
+OAX|San Nicolas Hidalgo
+OAX|San Pablo Coatlan
+OAX|San Pablo Cuatro Venados
+OAX|San Pablo Etla
+OAX|San Pablo Huitzo
+OAX|San Pablo Huixtepec
+OAX|San Pablo Macuiltianguis
+OAX|San Pablo Tijaltepec
+OAX|San Pablo Villa de Mitla
+OAX|San Pablo Yaganiza
+OAX|San Pedro Amuzgos
+OAX|San Pedro Apostol
+OAX|San Pedro Atoyac
+OAX|San Pedro Cajonos
+OAX|San Pedro Coxcaltepec Cantaros
+OAX|San Pedro Comitancillo
+OAX|San Pedro el Alto
+OAX|San Pedro Huamelula
+OAX|San Pedro Huilotepec
+OAX|San Pedro Ixcatlan
+OAX|San Pedro Ixtlahuaca
+OAX|San Pedro Jaltepetongo
+OAX|San Pedro Jicayan
+OAX|San Pedro Jocotipac
+OAX|San Pedro Juchatengo
+OAX|San Pedro Martir
+OAX|San Pedro Martir Quiechapa
+OAX|San Pedro Martir Yucuxaco
+OAX|San Pedro Mixtepec -Dto. 22 -
+OAX|San Pedro Mixtepec -Dto. 26 -
+OAX|San Pedro Molinos
+OAX|San Pedro Nopala
+OAX|San Pedro Ocopetatillo
+OAX|San Pedro Ocotepec
+OAX|San Pedro Pochutla
+OAX|San Pedro Quiatoni
+OAX|San Pedro Sochiapam
+OAX|San Pedro Tapanatepec
+OAX|San Pedro Taviche
+OAX|San Pedro Teozacoalco
+OAX|San Pedro Teutila
+OAX|San Pedro Tidaa
+OAX|San Pedro Topiltepec
+OAX|San Pedro Totolapa
+OAX|Villa de Tututepec de Melchor Ocampo
+OAX|San Pedro Yaneri
+OAX|San Pedro Yolox
+OAX|San Pedro y San Pablo Ayutla
+OAX|Villa de Etla
+OAX|San Pedro y San Pablo Teposcolula
+OAX|San Pedro y San Pablo Tequixtepec
+OAX|San Pedro Yucunama
+OAX|San Raymundo Jalpan
+OAX|San Sebastian Abasolo
+OAX|San Sebastian Coatlan
+OAX|San Sebastian Ixcapa
+OAX|San Sebastian Nicananduta
+OAX|San Sebastian Rio Hondo
+OAX|San Sebastian Tecomaxtlahuaca
+OAX|San Sebastian Teitipac
+OAX|San Sebastian Tutla
+OAX|San Simon Almolongas
+OAX|San Simon Zahuatlan
+OAX|Santa Ana
+OAX|Santa Ana Ateixtlahuaca
+OAX|Santa Ana Cuauhtemoc
+OAX|Santa Ana del Valle
+OAX|Santa Ana Tavela
+OAX|Santa Ana Tlapacoyan
+OAX|Santa Ana Yareni
+OAX|Santa Ana Zegache
+OAX|Santa Catalina Quieri
+OAX|Santa Catarina Cuixtla
+OAX|Santa Catarina Ixtepeji
+OAX|Santa Catarina Juquila
+OAX|Santa Catarina Lachatao
+OAX|Santa Catarina Loxicha
+OAX|Santa Catarina Mechoacan
+OAX|Santa Catarina Minas
+OAX|Santa Catarina Quiane
+OAX|Santa Catarina Tayata
+OAX|Santa Catarina Ticua
+OAX|Santa Catarina Yosonotu
+OAX|Santa Catarina Zapoquila
+OAX|Santa Cruz Acatepec
+OAX|Santa Cruz Amilpas
+OAX|Santa Cruz de Bravo
+OAX|Santa Cruz Itundujia
+OAX|Santa Cruz Mixtepec
+OAX|Santa Cruz Nundaco
+OAX|Santa Cruz Papalutla
+OAX|Santa Cruz Tacache de Mina
+OAX|Santa Cruz Tacahua
+OAX|Santa Cruz Tayata
+OAX|Santa Cruz Xitla
+OAX|Santa Cruz Xoxocotlan
+OAX|Santa Cruz Zenzontepec
+OAX|Santa Gertrudis
+OAX|Santa Ines del Monte
+OAX|Santa Ines Yatzeche
+OAX|Santa Lucia del Camino
+OAX|Santa Lucia Miahuatlan
+OAX|Santa Lucia Monteverde
+OAX|Santa Lucia Ocotlan
+OAX|Santa Maria Alotepec
+OAX|Santa Maria Apazco
+OAX|Santa Maria la Asuncion
+OAX|Heroica Ciudad de Tlaxiaco
+OAX|Ayoquezco de Aldama
+OAX|Santa Maria Atzompa
+OAX|Santa Maria Camotlan
+OAX|Santa Maria Colotepec
+OAX|Santa Maria Cortijo
+OAX|Santa Maria Coyotepec
+OAX|Santa Maria Chachoapam
+OAX|Villa de Chilapa de Diaz
+OAX|Santa Maria Chilchotla
+OAX|Santa Maria Chimalapa
+OAX|Santa Maria del Rosario
+OAX|Santa Maria del Tule
+OAX|Santa Maria Ecatepec
+OAX|Santa Maria Guelace
+OAX|Santa Maria Guienagati
+OAX|Santa Maria Huatulco
+OAX|Santa Maria Huazolotitlan
+OAX|Santa Maria Ipalapa
+OAX|Santa Maria Ixcatlan
+OAX|Santa Maria Jacatepec
+OAX|Santa Maria Jalapa del Marques
+OAX|Santa Maria Jaltianguis
+OAX|Santa Maria Lachixio
+OAX|Santa Maria Mixtequilla
+OAX|Santa Maria Nativitas
+OAX|Santa Maria Nduayaco
+OAX|Santa Maria Ozolotepec
+OAX|Santa Maria Papalo
+OAX|Santa Maria Penoles
+OAX|Santa Maria Petapa
+OAX|Santa Maria Quiegolani
+OAX|Santa Maria Sola
+OAX|Santa Maria Tataltepec
+OAX|Santa Maria Tecomavaca
+OAX|Santa Maria Temaxcalapa
+OAX|Santa Maria Temaxcaltepec
+OAX|Santa Maria Teopoxco
+OAX|Santa Maria Tepantlali
+OAX|Santa Maria Texcatitlan
+OAX|Santa Maria Tlahuitoltepec
+OAX|Santa Maria Tlalixtac
+OAX|Santa Maria Tonameca
+OAX|Santa Maria Totolapilla
+OAX|Santa Maria Xadani
+OAX|Santa Maria Yalina
+OAX|Santa Maria Yavesia
+OAX|Santa Maria Yolotepec
+OAX|Santa Maria Yosoyua
+OAX|Santa Maria Yucuhiti
+OAX|Santa Maria Zacatepec
+OAX|Santa Maria Zaniza
+OAX|Santa Maria Zoquitlan
+OAX|Santiago Amoltepec
+OAX|Santiago Apoala
+OAX|Santiago Apostol
+OAX|Santiago Astata
+OAX|Santiago Atitlan
+OAX|Santiago Ayuquililla
+OAX|Santiago Cacaloxtepec
+OAX|Santiago Camotlan
+OAX|Santiago Comaltepec
+OAX|Santiago Chazumba
+OAX|Santiago Choapam
+OAX|Santiago del Rio
+OAX|Santiago Huajolotitlan
+OAX|Santiago Huauclilla
+OAX|Santiago Ihuitlan Plumas
+OAX|Santiago Ixcuintepec
+OAX|Santiago Ixtayutla
+OAX|Santiago Jamiltepec
+OAX|Santiago Jocotepec
+OAX|Santiago Juxtlahuaca
+OAX|Santiago Lachiguiri
+OAX|Santiago Lalopa
+OAX|Santiago Laollaga
+OAX|Santiago Laxopa
+OAX|Santiago Llano Grande
+OAX|Santiago Matatlan
+OAX|Santiago Miltepec
+OAX|Santiago Minas
+OAX|Santiago Nacaltepec
+OAX|Santiago Nejapilla
+OAX|Santiago Nundiche
+OAX|Santiago Nuyoo
+OAX|Santiago Pinotepa Nacional
+OAX|Santiago Suchilquitongo
+OAX|Santiago Tamazola
+OAX|Santiago Tapextla
+OAX|Villa Tejupam de la Union
+OAX|Santiago Tenango
+OAX|Santiago Tepetlapa
+OAX|Santiago Tetepec
+OAX|Santiago Texcalcingo
+OAX|Santiago Textitlan
+OAX|Santiago Tilantongo
+OAX|Santiago Tillo
+OAX|Santiago Tlazoyaltepec
+OAX|Santiago Xanica
+OAX|Santiago Xiacui
+OAX|Santiago Yaitepec
+OAX|Santiago Yaveo
+OAX|Santiago Yolomecatl
+OAX|Santiago Yosondua
+OAX|Santiago Yucuyachi
+OAX|Santiago Zacatepec
+OAX|Santiago Zoochila
+OAX|Nuevo Zoquiapam
+OAX|Santo Domingo Ingenio
+OAX|Santo Domingo Albarradas
+OAX|Santo Domingo Armenta
+OAX|Santo Domingo Chihuitan
+OAX|Santo Domingo de Morelos
+OAX|Santo Domingo Ixcatlan
+OAX|Santo Domingo Nuxaa
+OAX|Santo Domingo Ozolotepec
+OAX|Santo Domingo Petapa
+OAX|Santo Domingo Roayaga
+OAX|Santo Domingo Tehuantepec
+OAX|Santo Domingo Teojomulco
+OAX|Santo Domingo Tepuxtepec
+OAX|Santo Domingo Tlatayapam
+OAX|Santo Domingo Tomaltepec
+OAX|Santo Domingo Tonala
+OAX|Santo Domingo Tonaltepec
+OAX|Santo Domingo Xagacia
+OAX|Santo Domingo Yanhuitlan
+OAX|Santo Domingo Yodohino
+OAX|Santo Domingo Zanatepec
+OAX|Santos Reyes Nopala
+OAX|Santos Reyes Papalo
+OAX|Santos Reyes Tepejillo
+OAX|Santos Reyes Yucuna
+OAX|Santo Tomas Jalieza
+OAX|Santo Tomas Mazaltepec
+OAX|Santo Tomas Ocotepec
+OAX|Santo Tomas Tamazulapan
+OAX|San Vicente Coatlan
+OAX|San Vicente Lachixio
+OAX|San Vicente Nunu
+OAX|Silacayoapam
+OAX|Sitio de Xitlapehua
+OAX|Soledad Etla
+OAX|Villa de Tamazulapam del Progreso
+OAX|Tanetze de Zaragoza
+OAX|Taniche
+OAX|Tataltepec de Valdes
+OAX|Teococuilco de Marcos Perez
+OAX|Teotitlan de Flores Magon
+OAX|Teotitlan del Valle
+OAX|Teotongo
+OAX|Tepelmeme Villa de Morelos
+OAX|Tezoatlan de Segura y Luna
+OAX|San Jeronimo Tlacochahuaya
+OAX|Tlacolula de Matamoros
+OAX|Tlacotepec Plumas
+OAX|Tlalixtac de Cabrera
+OAX|Totontepec Villa de Morelos
+OAX|Trinidad Zaachila
+OAX|La Trinidad Vista Hermosa
+OAX|Union Hidalgo
+OAX|Valerio Trujano
+OAX|San Juan Bautista Valle Nacional
+OAX|Villa Diaz Ordaz
+OAX|Yaxe
+OAX|Magdalena Yodocono de Porfirio Diaz
+OAX|Yogana
+OAX|Yutanduchi de Guerrero
+OAX|Villa de Zaachila
+OAX|Zapotitlan del Rio
+OAX|Zapotitlan Lagunas
+OAX|Zapotitlan Palmas
+OAX|Santa Ines de Zaragoza
+OAX|Zimatlan de Alvarez
+PUE|Acajete
+PUE|Acateno
+PUE|Acatlan
+PUE|Acatzingo
+PUE|Acteopan
+PUE|Ahuacatlan
+PUE|Ahuatlan
+PUE|Ahuazotepec
+PUE|Ahuehuetitla
+PUE|Ajalpan
+PUE|Albino Zertuche
+PUE|Aljojuca
+PUE|Altepexi
+PUE|Amixtlan
+PUE|Amozoc
+PUE|Aquixtla
+PUE|Atempan
+PUE|Atexcal
+PUE|Atlixco
+PUE|Atoyatempan
+PUE|Atzala
+PUE|Atzitzihuacan
+PUE|Atzitzintla
+PUE|Axutla
+PUE|Ayotoxco de Guerrero
+PUE|Calpan
+PUE|Caltepec
+PUE|Camocuautla
+PUE|Caxhuacan
+PUE|Coatepec
+PUE|Coatzingo
+PUE|Cohetzala
+PUE|Cohuecan
+PUE|Coronango
+PUE|Coxcatlan
+PUE|Coyomeapan
+PUE|Coyotepec
+PUE|Cuapiaxtla de Madero
+PUE|Cuautempan
+PUE|Cuautinchan
+PUE|Cuautlancingo
+PUE|Cuayuca de Andrade
+PUE|Cuetzalan del Progreso
+PUE|Cuyoaco
+PUE|Chalchicomula de Sesma
+PUE|Chapulco
+PUE|Chiautla
+PUE|Chiautzingo
+PUE|Chiconcuautla
+PUE|Chichiquila
+PUE|Chietla
+PUE|Chigmecatitlan
+PUE|Chignahuapan
+PUE|Chignautla
+PUE|Chila
+PUE|Chila de la Sal
+PUE|Honey
+PUE|Chilchotla
+PUE|Chinantla
+PUE|Domingo Arenas
+PUE|Eloxochitlan
+PUE|Epatlan
+PUE|Esperanza
+PUE|Francisco Z. Mena
+PUE|General Felipe Angeles
+PUE|Guadalupe
+PUE|Guadalupe Victoria
+PUE|Hermenegildo Galeana
+PUE|Huaquechula
+PUE|Huatlatlauca
+PUE|Huauchinango
+PUE|Huehuetla
+PUE|Huehuetlan el Chico
+PUE|Huejotzingo
+PUE|Hueyapan
+PUE|Hueytamalco
+PUE|Hueytlalpan
+PUE|Huitzilan de Serdan
+PUE|Huitziltepec
+PUE|Atlequizayan
+PUE|Ixcamilpa de Guerrero
+PUE|Ixcaquixtla
+PUE|Ixtacamaxtitlan
+PUE|Ixtepec
+PUE|Izucar de Matamoros
+PUE|Jalpan
+PUE|Jolalpan
+PUE|Jonotla
+PUE|Jopala
+PUE|Juan C. Bonilla
+PUE|Juan Galindo
+PUE|Juan N. Mendez
+PUE|Lafragua
+PUE|Libres
+PUE|La Magdalena Tlatlauquitepec
+PUE|Mazapiltepec de Juarez
+PUE|Mixtla
+PUE|Molcaxac
+PUE|Canada Morelos
+PUE|Naupan
+PUE|Nauzontla
+PUE|Nealtican
+PUE|Nicolas Bravo
+PUE|Nopalucan
+PUE|Ocotepec
+PUE|Ocoyucan
+PUE|Olintla
+PUE|Oriental
+PUE|Pahuatlan
+PUE|Palmar de Bravo
+PUE|Pantepec
+PUE|Petlalcingo
+PUE|Piaxtla
+PUE|Puebla
+PUE|Quecholac
+PUE|Quimixtlan
+PUE|Rafael Lara Grajales
+PUE|Los Reyes de Juarez
+PUE|San Andres Cholula
+PUE|San Antonio Canada
+PUE|San Diego la Mesa Tochimiltzingo
+PUE|San Felipe Teotlalcingo
+PUE|San Felipe Tepatlan
+PUE|San Gabriel Chilac
+PUE|San Gregorio Atzompa
+PUE|San Jeronimo Tecuanipan
+PUE|San Jeronimo Xayacatlan
+PUE|San Jose Chiapa
+PUE|San Jose Miahuatlan
+PUE|San Juan Atenco
+PUE|San Juan Atzompa
+PUE|San Martin Texmelucan
+PUE|San Martin Totoltepec
+PUE|San Matias Tlalancaleca
+PUE|San Miguel Ixitlan
+PUE|San Miguel Xoxtla
+PUE|San Nicolas Buenos Aires
+PUE|San Nicolas de los Ranchos
+PUE|San Pablo Anicano
+PUE|San Pedro Cholula
+PUE|San Pedro Yeloixtlahuaca
+PUE|San Salvador el Seco
+PUE|San Salvador el Verde
+PUE|San Salvador Huixcolotla
+PUE|San Sebastian Tlacotepec
+PUE|Santa Catarina Tlaltempan
+PUE|Santa Ines Ahuatempan
+PUE|Santa Isabel Cholula
+PUE|Santiago Miahuatlan
+PUE|Huehuetlan el Grande
+PUE|Santo Tomas Hueyotlipan
+PUE|Soltepec
+PUE|Tecali de Herrera
+PUE|Tecamachalco
+PUE|Tecomatlan
+PUE|Tehuacan
+PUE|Tehuitzingo
+PUE|Tenampulco
+PUE|Teopantlan
+PUE|Teotlalco
+PUE|Tepanco de Lopez
+PUE|Tepango de Rodriguez
+PUE|Tepatlaxco de Hidalgo
+PUE|Tepeaca
+PUE|Tepemaxalco
+PUE|Tepeojuma
+PUE|Tepetzintla
+PUE|Tepexco
+PUE|Tepexi de Rodriguez
+PUE|Tepeyahualco
+PUE|Tepeyahualco de Cuauhtemoc
+PUE|Tetela de Ocampo
+PUE|Teteles de Avila Castillo
+PUE|Teziutlan
+PUE|Tianguismanalco
+PUE|Tilapa
+PUE|Tlacotepec de Benito Juarez
+PUE|Tlacuilotepec
+PUE|Tlachichuca
+PUE|Tlahuapan
+PUE|Tlaltenango
+PUE|Tlanepantla
+PUE|Tlaola
+PUE|Tlapacoya
+PUE|Tlapanala
+PUE|Tlatlauquitepec
+PUE|Tlaxco
+PUE|Tochimilco
+PUE|Tochtepec
+PUE|Totoltepec de Guerrero
+PUE|Tulcingo
+PUE|Tuzamapan de Galeana
+PUE|Tzicatlacoyan
+PUE|Venustiano Carranza
+PUE|Vicente Guerrero
+PUE|Xayacatlan de Bravo
+PUE|Xicotepec
+PUE|Xicotlan
+PUE|Xiutetelco
+PUE|Xochiapulco
+PUE|Xochiltepec
+PUE|Xochitlan de Vicente Suarez
+PUE|Xochitlan Todos Santos
+PUE|Yaonahuac
+PUE|Yehualtepec
+PUE|Zacapala
+PUE|Zacapoaxtla
+PUE|Zacatlan
+PUE|Zapotitlan
+PUE|Zapotitlan de Mendez
+PUE|Zaragoza
+PUE|Zautla
+PUE|Zihuateutla
+PUE|Zinacatepec
+PUE|Zongozotla
+PUE|Zoquiapan
+PUE|Zoquitlan
+QUE|Amealco de Bonfil
+QUE|Pinal de Amoles
+QUE|Arroyo Seco
+QUE|Cadereyta de Montes
+QUE|Colon
+QUE|Corregidora
+QUE|Ezequiel Montes
+QUE|Huimilpan
+QUE|Jalpan de Serra
+QUE|Landa de Matamoros
+QUE|El Marques
+QUE|Pedro Escobedo
+QUE|Penamiller
+QUE|Queretaro
+QUE|San Joaquin
+QUE|San Juan del Rio
+QUE|Tequisquiapan
+QUE|Toliman
+ROO|Cozumel
+ROO|Felipe Carrillo Puerto
+ROO|Isla Mujeres
+ROO|Othon P. Blanco
+ROO|Benito Juarez
+ROO|Jose Maria Morelos
+ROO|Lazaro Cardenas
+ROO|Solidaridad
+ROO|Tulum
+SLP|Ahualulco
+SLP|Alaquines
+SLP|Aquismon
+SLP|Armadillo de los Infante
+SLP|Cardenas
+SLP|Catorce
+SLP|Cedral
+SLP|Cerritos
+SLP|Cerro de San Pedro
+SLP|Ciudad del Maiz
+SLP|Ciudad Fernandez
+SLP|Tancanhuitz
+SLP|Ciudad Valles
+SLP|Coxcatlan
+SLP|Charcas
+SLP|Ebano
+SLP|Guadalcazar
+SLP|Huehuetlan
+SLP|Lagunillas
+SLP|Matehuala
+SLP|Mexquitic de Carmona
+SLP|Moctezuma
+SLP|Rayon
+SLP|Rioverde
+SLP|Salinas
+SLP|San Antonio
+SLP|San Ciro de Acosta
+SLP|San Luis Potosi
+SLP|San Martin Chalchicuautla
+SLP|San Nicolas Tolentino
+SLP|Santa Catarina
+SLP|Santa Maria del Rio
+SLP|Santo Domingo
+SLP|San Vicente Tancuayalab
+SLP|Soledad de Graciano Sanchez
+SLP|Tamasopo
+SLP|Tamazunchale
+SLP|Tampacan
+SLP|Tampamolon Corona
+SLP|Tamuin
+SLP|TaNLEajas
+SLP|Tanquian de Escobedo
+SLP|Tierra Nueva
+SLP|Vanegas
+SLP|Venado
+SLP|Villa de Arriaga
+SLP|Villa de Guadalupe
+SLP|Villa de la Paz
+SLP|Villa de Ramos
+SLP|Villa de Reyes
+SLP|Villa Hidalgo
+SLP|Villa Juarez
+SLP|Axtla de Terrazas
+SLP|Xilitla
+SLP|Zaragoza
+SLP|Villa de Arista
+SLP|Matlapa
+SLP|El Naranjo
+SIN|Ahome
+SIN|Angostura
+SIN|Badiraguato
+SIN|Concordia
+SIN|Cosala
+SIN|Culiacan
+SIN|Choix
+SIN|Elota
+SIN|Escuinapa
+SIN|El Fuerte
+SIN|Guasave
+SIN|Mazatlan
+SIN|Mocorito
+SIN|Rosario
+SIN|Salvador Alvarado
+SIN|San Ignacio
+SIN|Sinaloa
+SIN|Navolato
+SON|Aconchi
+SON|Agua Prieta
+SON|Alamos
+SON|Altar
+SON|Arivechi
+SON|Arizpe
+SON|Atil
+SON|Bacadehuachi
+SON|Bacanora
+SON|Bacerac
+SON|Bacoachi
+SON|Bacum
+SON|Banamichi
+SON|Baviacora
+SON|Bavispe
+SON|Benjamin Hill
+SON|Caborca
+SON|Cajeme
+SON|Cananea
+SON|Carbo
+SON|La Colorada
+SON|Cucurpe
+SON|Cumpas
+SON|Divisaderos
+SON|Empalme
+SON|Etchojoa
+SON|Fronteras
+SON|Granados
+SON|Guaymas
+SON|Hermosillo
+SON|Huachinera
+SON|Huasabas
+SON|Huatabampo
+SON|Huepac
+SON|Imuris
+SON|Magdalena
+SON|Mazatan
+SON|Moctezuma
+SON|Naco
+SON|Nacori Chico
+SON|Nacozari de Garcia
+SON|Navojoa
+SON|Nogales
+SON|Onavas
+SON|Opodepe
+SON|Oquitoa
+SON|Pitiquito
+SON|Puerto Penasco
+SON|Quiriego
+SON|Rayon
+SON|Rosario
+SON|Sahuaripa
+SON|San Felipe de Jesus
+SON|San Javier
+SON|San Luis Rio Colorado
+SON|San Miguel de Horcasitas
+SON|San Pedro de la Cueva
+SON|Santa Ana
+SON|Santa Cruz
+SON|Saric
+SON|Soyopa
+SON|Suaqui Grande
+SON|Tepache
+SON|Trincheras
+SON|Tubutama
+SON|Ures
+SON|Villa Hidalgo
+SON|Villa Pesqueira
+SON|Yecora
+SON|General Plutarco Elias Calles
+SON|Benito Juarez
+SON|San Ignacio Rio Muerto
+TAB|Balancan
+TAB|Cardenas
+TAB|Centla
+TAB|Centro
+TAB|Comalcalco
+TAB|Cunduacan
+TAB|Emiliano Zapata
+TAB|Huimanguillo
+TAB|Jalapa
+TAB|Jalpa de Mendez
+TAB|Jonuta
+TAB|Macuspana
+TAB|Nacajuca
+TAB|Paraiso
+TAB|Tacotalpa
+TAB|Teapa
+TAB|Tenosique
+TAM|Abasolo
+TAM|Aldama
+TAM|Altamira
+TAM|Antiguo Morelos
+TAM|Burgos
+TAM|Bustamante
+TAM|Camargo
+TAM|Casas
+TAM|Ciudad Madero
+TAM|Cruillas
+TAM|Gomez Farias
+TAM|Gonzalez
+TAM|Güemez
+TAM|Guerrero
+TAM|Gustavo Diaz Ordaz
+TAM|Hidalgo
+TAM|Jaumave
+TAM|Jimenez
+TAM|Llera
+TAM|Mainero
+TAM|El Mante
+TAM|Matamoros
+TAM|Mendez
+TAM|Mier
+TAM|Miguel Aleman
+TAM|Miquihuana
+TAM|Nuevo Laredo
+TAM|Nuevo Morelos
+TAM|Ocampo
+TAM|Padilla
+TAM|Palmillas
+TAM|Reynosa
+TAM|Rio Bravo
+TAM|San Carlos
+TAM|San Fernando
+TAM|San Nicolas
+TAM|Soto la Marina
+TAM|Tampico
+TAM|Tula
+TAM|Valle Hermoso
+TAM|Victoria
+TAM|Villagran
+TAM|Xicotencatl
+TLA|Amaxac de Guerrero
+TLA|Apetatitlan de Antonio Carvajal
+TLA|Atlangatepec
+TLA|Altzayanca
+TLA|Apizaco
+TLA|Calpulalpan
+TLA|El Carmen Tequexquitla
+TLA|Cuapiaxtla
+TLA|Cuaxomulco
+TLA|Chiautempan
+TLA|Munoz de Domingo Arenas
+TLA|Espanita
+TLA|Huamantla
+TLA|Hueyotlipan
+TLA|Ixtacuixtla de Mariano Matamoros
+TLA|Ixtenco
+TLA|Mazatecochco de Jose Maria Morelos
+TLA|Contla de Juan Cuamatzi
+TLA|Tepetitla de Lardizabal
+TLA|Sanctorum de Lazaro Cardenas
+TLA|Nanacamilpa de Mariano Arista
+TLA|Acuamanala de Miguel Hidalgo
+TLA|Nativitas
+TLA|Panotla
+TLA|San Pablo del Monte
+TLA|Santa Cruz Tlaxcala
+TLA|Tenancingo
+TLA|Teolocholco
+TLA|Tepeyanco
+TLA|Terrenate
+TLA|Tetla de la Solidaridad
+TLA|Tetlatlahuca
+TLA|Tlaxcala
+TLA|Tlaxco
+TLA|Tocatlan
+TLA|Totolac
+TLA|Zitlaltepec de Trinidad Sanchez Santos
+TLA|Tzompantepec
+TLA|Xaloztoc
+TLA|Xaltocan
+TLA|Papalotla de Xicohtencatl
+TLA|Xicohtzinco
+TLA|Yauhquemecan
+TLA|Zacatelco
+TLA|Benito Juarez
+TLA|Emiliano Zapata
+TLA|Lazaro Cardenas
+TLA|La Magdalena Tlaltelulco
+TLA|San Damian Texoloc
+TLA|San Francisco Tetlanohcan
+TLA|San Jeronimo Zacualpan
+TLA|San Jose Teacalco
+TLA|San Juan Huactzinco
+TLA|San Lorenzo Axocomanitla
+TLA|San Lucas Tecopilco
+TLA|Santa Ana Nopalucan
+TLA|Santa Apolonia Teacalco
+TLA|Santa Catarina Ayometla
+TLA|Santa Cruz Quilehtla
+TLA|Santa Isabel Xiloxoxtla
+VER|Acajete
+VER|Acatlan
+VER|Acayucan
+VER|Actopan
+VER|Acula
+VER|Acultzingo
+VER|Camaron de Tejeda
+VER|Alpatlahuac
+VER|Alto Lucero de Gutierrez Barrios
+VER|Altotonga
+VER|Alvarado
+VER|Amatitlan
+VER|Naranjos Amatlan
+VER|Amatlan de los Reyes
+VER|Angel R. Cabada
+VER|La Antigua
+VER|Apazapan
+VER|Aquila
+VER|Astacinga
+VER|Atlahuilco
+VER|Atoyac
+VER|Atzacan
+VER|Atzalan
+VER|Tlaltetela
+VER|Ayahualulco
+VER|Banderilla
+VER|Benito Juarez
+VER|Boca del Rio
+VER|Calcahualco
+VER|Camerino Z. Mendoza
+VER|Carrillo Puerto
+VER|Catemaco
+VER|Cazones de Herrera
+VER|Cerro Azul
+VER|Citlaltepetl
+VER|Coacoatzintla
+VER|Coahuitlan
+VER|Coatepec
+VER|Coatzacoalcos
+VER|Coatzintla
+VER|Coetzala
+VER|Colipa
+VER|Comapa
+VER|Cordoba
+VER|Cosamaloapan de Carpio
+VER|Cosautlan de Carvajal
+VER|Coscomatepec
+VER|Cosoleacaque
+VER|Cotaxtla
+VER|Coxquihui
+VER|Coyutla
+VER|Cuichapa
+VER|Cuitlahuac
+VER|Chacaltianguis
+VER|Chalma
+VER|Chiconamel
+VER|Chiconquiaco
+VER|Chicontepec
+VER|Chinameca
+VER|Chinampa de Gorostiza
+VER|Las Choapas
+VER|Chocaman
+VER|Chontla
+VER|Chumatlan
+VER|Emiliano Zapata
+VER|Espinal
+VER|Filomeno Mata
+VER|Fortin
+VER|Gutierrez Zamora
+VER|Hidalgotitlan
+VER|Huatusco
+VER|Huayacocotla
+VER|Hueyapan de Ocampo
+VER|Huiloapan de Cuauhtemoc
+VER|Ignacio de la Llave
+VER|Ilamatlan
+VER|Isla
+VER|Ixcatepec
+VER|Ixhuacan de los Reyes
+VER|Ixhuatlan del Cafe
+VER|Ixhuatlancillo
+VER|Ixhuatlan del Sureste
+VER|Ixhuatlan de Madero
+VER|Ixmatlahuacan
+VER|Ixtaczoquitlan
+VER|Jalacingo
+VER|Xalapa
+VER|Jalcomulco
+VER|Jaltipan
+VER|Jamapa
+VER|Jesus Carranza
+VER|Xico
+VER|Jilotepec
+VER|Juan Rodriguez Clara
+VER|Juchique de Ferrer
+VER|Landero y Coss
+VER|Lerdo de Tejada
+VER|Magdalena
+VER|Maltrata
+VER|MaNLEio Fabio Altamirano
+VER|Mariano Escobedo
+VER|Martinez de la Torre
+VER|Mecatlan
+VER|Mecayapan
+VER|Medellin
+VER|Miahuatlan
+VER|Las Minas
+VER|Minatitlan
+VER|Misantla
+VER|Mixtla de Altamirano
+VER|Moloacan
+VER|Naolinco
+VER|Naranjal
+VER|Nautla
+VER|Nogales
+VER|Oluta
+VER|Omealca
+VER|Orizaba
+VER|Otatitlan
+VER|Oteapan
+VER|Ozuluama de Mascarenas
+VER|Pajapan
+VER|Panuco
+VER|Papantla
+VER|Paso del Macho
+VER|Paso de Ovejas
+VER|La Perla
+VER|Perote
+VER|Platon Sanchez
+VER|Playa Vicente
+VER|Poza Rica de Hidalgo
+VER|Las Vigas de Ramirez
+VER|Pueblo Viejo
+VER|Puente Nacional
+VER|Rafael Delgado
+VER|Rafael Lucio
+VER|Los Reyes
+VER|Rio Blanco
+VER|Saltabarranca
+VER|San Andres Tenejapan
+VER|San Andres Tuxtla
+VER|San Juan Evangelista
+VER|Santiago Tuxtla
+VER|Sayula de Aleman
+VER|Soconusco
+VER|Sochiapa
+VER|Soledad Atzompa
+VER|Soledad de Doblado
+VER|Soteapan
+VER|Tamalin
+VER|Tamiahua
+VER|Tampico Alto
+VER|Tancoco
+VER|Tantima
+VER|Tantoyuca
+VER|Tatatila
+VER|Castillo de Teayo
+VER|Tecolutla
+VER|Tehuipango
+VER|Alamo Temapache
+VER|Tempoal
+VER|Tenampa
+VER|Tenochtitlan
+VER|Teocelo
+VER|Tepatlaxco
+VER|Tepetlan
+VER|Tepetzintla
+VER|Tequila
+VER|Jose Azueta
+VER|Texcatepec
+VER|Texhuacan
+VER|Texistepec
+VER|Tezonapa
+VER|Tierra Blanca
+VER|Tihuatlan
+VER|Tlacojalpan
+VER|Tlacolulan
+VER|Tlacotalpan
+VER|Tlacotepec de Mejia
+VER|Tlachichilco
+VER|Tlalixcoyan
+VER|Tlalnelhuayocan
+VER|Tlapacoyan
+VER|Tlaquilpa
+VER|Tlilapan
+VER|Tomatlan
+VER|Tonayan
+VER|Totutla
+VER|Tuxpan
+VER|Tuxtilla
+VER|Ursulo Galvan
+VER|Vega de Alatorre
+VER|Veracruz
+VER|Villa Aldama
+VER|Xoxocotla
+VER|Yanga
+VER|Yecuatla
+VER|Zacualpan
+VER|Zaragoza
+VER|Zentla
+VER|Zongolica
+VER|Zontecomatlan de Lopez y Fuentes
+VER|Zozocolco de Hidalgo
+VER|Agua Dulce
+VER|El Higo
+VER|Nanchital de Lazaro Cardenas del Rio
+VER|Tres Valles
+VER|Carlos A. Carrillo
+VER|Tatahuicapan de Juarez
+VER|Uxpanapa
+VER|San Rafael
+VER|Santiago Sochiapan
+YUC|Abala
+YUC|Acanceh
+YUC|Akil
+YUC|Baca
+YUC|Bokoba
+YUC|Buctzotz
+YUC|Cacalchen
+YUC|Calotmul
+YUC|Cansahcab
+YUC|Cantamayec
+YUC|Celestun
+YUC|Cenotillo
+YUC|Conkal
+YUC|Cuncunul
+YUC|Cuzama
+YUC|Chacsinkin
+YUC|Chankom
+YUC|Chapab
+YUC|Chemax
+YUC|Chicxulub Pueblo
+YUC|Chichimila
+YUC|Chikindzonot
+YUC|Chochola
+YUC|Chumayel
+YUC|Dzan
+YUC|Dzemul
+YUC|Dzidzantun
+YUC|Dzilam de Bravo
+YUC|Dzilam Gonzalez
+YUC|Dzitas
+YUC|Dzoncauich
+YUC|Espita
+YUC|Halacho
+YUC|Hocaba
+YUC|Hoctun
+YUC|Homun
+YUC|Huhi
+YUC|Hunucma
+YUC|Ixil
+YUC|Izamal
+YUC|Kanasin
+YUC|Kantunil
+YUC|Kaua
+YUC|Kinchil
+YUC|Kopoma
+YUC|Mama
+YUC|Mani
+YUC|Maxcanu
+YUC|Mayapan
+YUC|Merida
+YUC|Mococha
+YUC|Motul
+YUC|Muna
+YUC|Muxupip
+YUC|Opichen
+YUC|Oxkutzcab
+YUC|Panaba
+YUC|Peto
+YUC|Progreso
+YUC|Quintana Roo
+YUC|Rio Lagartos
+YUC|Sacalum
+YUC|Samahil
+YUC|Sanahcat
+YUC|San Felipe
+YUC|Santa Elena
+YUC|Seye
+YUC|Sinanche
+YUC|Sotuta
+YUC|Sucila
+YUC|Sudzal
+YUC|Suma
+YUC|Tahdziu
+YUC|Tahmek
+YUC|Teabo
+YUC|Tecoh
+YUC|Tekal de Venegas
+YUC|Tekanto
+YUC|Tekax
+YUC|Tekit
+YUC|Tekom
+YUC|Telchac Pueblo
+YUC|Telchac Puerto
+YUC|Temax
+YUC|Temozon
+YUC|Tepakan
+YUC|Tetiz
+YUC|Teya
+YUC|Ticul
+YUC|Timucuy
+YUC|Tinum
+YUC|Tixcacalcupul
+YUC|Tixkokob
+YUC|Tixmehuac
+YUC|Tixpehual
+YUC|Tizimin
+YUC|Tunkas
+YUC|Tzucacab
+YUC|Uayma
+YUC|Ucu
+YUC|Uman
+YUC|Valladolid
+YUC|Xocchel
+YUC|Yaxcaba
+YUC|Yaxkukul
+YUC|Yobain
+ZAC|Apozol
+ZAC|Apulco
+ZAC|Atolinga
+ZAC|Benito Juarez
+ZAC|Calera
+ZAC|Canitas de Felipe Pescador
+ZAC|Concepcion del Oro
+ZAC|Cuauhtemoc
+ZAC|Chalchihuites
+ZAC|Fresnillo
+ZAC|Trinidad Garcia de la Cadena
+ZAC|Genaro Codina
+ZAC|General Enrique Estrada
+ZAC|General Francisco R. Murguia
+ZAC|El Plateado de Joaquin Amaro
+ZAC|General Panfilo Natera
+ZAC|Guadalupe
+ZAC|Huanusco
+ZAC|Jalpa
+ZAC|Jerez
+ZAC|Jimenez del Teul
+ZAC|Juan Aldama
+ZAC|Juchipila
+ZAC|Loreto
+ZAC|Luis Moya
+ZAC|Mazapil
+ZAC|Melchor Ocampo
+ZAC|Mezquital del Oro
+ZAC|Miguel Auza
+ZAC|Momax
+ZAC|Monte Escobedo
+ZAC|Morelos
+ZAC|Moyahua de Estrada
+ZAC|Nochistlan de Mejia
+ZAC|Noria de Angeles
+ZAC|Ojocaliente
+ZAC|Panuco
+ZAC|Pinos
+ZAC|Rio Grande
+ZAC|Sain Alto
+ZAC|El Salvador
+ZAC|Sombrerete
+ZAC|Susticacan
+ZAC|Tabasco
+ZAC|Tepechitlan
+ZAC|Tepetongo
+ZAC|Teul de Gonzalez Ortega
+ZAC|Tlaltenango de Sanchez Roman
+ZAC|Valparaiso
+ZAC|Vetagrande
+ZAC|Villa de Cos
+ZAC|Villa Garcia
+ZAC|Villa Gonzalez Ortega
+ZAC|Villa Hidalgo
+ZAC|Villanueva
+ZAC|Zacatecas
+ZAC|Trancoso
+ZAC|Santa Maria de la Paz

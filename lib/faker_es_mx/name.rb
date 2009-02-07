@@ -17,9 +17,9 @@ module Faker
     MX_LAST_NAMES = %w(
       Hernandez Garcia Martinez Lopez Gonzalez Gomez Rodriguez Perez Sanchez
       Rivera Ramirez Flores Villegas Guerrero Monroy Naranjo Vega Fernandez
-      Jimenez Ruiz Diaz Moreno Alvarez Muñoz Romero Gutierrez Navarro Torres
+      Jimenez Ruiz Diaz Moreno Alvarez Munoz Romero Gutierrez Navarro Torres
       Vazquez Ramos Serrano Castro Molina Morales Ortega Delgado Rubio Iglesias
-      Santos Castillo Cruz Nuñez Garrido Medina Lozano Leon
+      Santos Castillo Cruz Nunez Garrido Medina Lozano Leon
     )
 
     MxFormats = [
